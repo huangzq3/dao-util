@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dao-util:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dao-util.war">
+      <element id="artifact" artifact-name="dao-util:war exploded" />
+    </root>
+  </artifact>
+</component>
